@@ -117,7 +117,7 @@ export default function Portfolio() {
           <div className="mb-8">
             <div className="w-48 h-48 mx-auto mb-8 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl">
               <img
-                src="/placeholder.svg?height=192&width=192"
+                src="/placeholder-user.jpg"
                 alt="Prince Yadav"
                 className="w-full h-full object-cover"
               />
