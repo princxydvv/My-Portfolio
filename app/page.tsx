@@ -282,7 +282,7 @@ export default function Portfolio() {
               <p className="text-white/80 mb-6">Computer Science Student & Web Developer</p>
               <Button asChild className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 text-lg">
                 <a
-                  href="https://drive.google.com/file/d/1QSDjMbzFBILup9EpvwuHlqDQ9ARMSxDs/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1N9cnB2s_L5BHU-P6vYmcSKcLW0M9Y5al/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
