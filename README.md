@@ -25,7 +25,3 @@ Welcome to my personal portfolio website! This project showcases my background, 
 - **Icons & UI**: shadcn/ui, Lucide icons
 - **Deployment**: Vercel
 
----
-
-## 📂 Folder Structure
-
