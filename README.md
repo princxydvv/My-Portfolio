@@ -1,4 +1,4 @@
- #Portfolio 
+#Portfolio 
 # 💼 Prince Yadav - Developer Portfolio
 
 Welcome to my personal portfolio website! This project showcases my background, skills, and projects as a software developer. Built using **React**, **TypeScript**, and **Tailwind CSS**, it's designed to be fast, responsive, and developer-friendly.
