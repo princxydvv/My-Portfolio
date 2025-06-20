@@ -315,7 +315,7 @@ export default function Portfolio() {
                         href="mailto:princerao7244@gmail.com"
                         className="text-white/80 hover:text-purple-300 transition-colors"
                       >
-                        princerao7244@gmail.com
+                        princeyada7244@gmail.com
                       </a>
                     </div>
                   </div>
